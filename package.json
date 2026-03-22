@@ -1,6 +1,6 @@
 {
   "name": "minyimg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightning fast lossless and smart-lossy image compression CLI",
   "main": "dist/index.js",
   "type": "module",
