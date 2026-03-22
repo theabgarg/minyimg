@@ -13,7 +13,7 @@ import { optimize as optimizeSvg, type Config } from "svgo";
 const program = new Command();
 
 program
-  .name("minifyimg")
+  .name("minyimg")
   .description("Lightning fast lossless and smart-lossy image compression CLI")
   .version("1.0.0")
   .requiredOption("-p, --path <dir>", "Path to the folder containing images")
